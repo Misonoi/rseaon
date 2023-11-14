@@ -1,8 +1,8 @@
 package iter
 
 import (
-	"rseaon"
-	"rseaon/option"
+	"github.com/Misonoi/rseaon"
+	"github.com/Misonoi/rseaon/option"
 )
 
 type Map[T any, F any] struct {

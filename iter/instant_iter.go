@@ -2,8 +2,8 @@ package iter
 
 import (
 	"cmp"
+	"github.com/Misonoi/rseaon/option"
 	"math/rand"
-	"rseaon/option"
 )
 
 func InstantMap[T, F any](slice []T, fn func(T, int) F) []F {

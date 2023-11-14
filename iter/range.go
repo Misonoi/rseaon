@@ -1,6 +1,6 @@
 package iter
 
-import "rseaon/option"
+import "github.com/Misonoi/rseaon/option"
 
 type Range[T int | int8 | int16 | int32 | int64 | uint8 | uint16 | uint32 | uint | uint64] struct {
 	l, r, posL, posR T

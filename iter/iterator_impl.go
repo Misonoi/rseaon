@@ -1,6 +1,6 @@
 package iter
 
-import "rseaon/option"
+import "github.com/Misonoi/rseaon/option"
 
 type IntoIter[T any] interface {
 	intoIter() Iterator[T]

@@ -1,7 +1,7 @@
 package iter
 
 import (
-	"rseaon/option"
+	"github.com/Misonoi/rseaon/option"
 )
 
 type Iterator[T any] interface {

@@ -2,8 +2,8 @@ package iter
 
 import (
 	"fmt"
+	"github.com/Misonoi/rseaon"
 	"github.com/stretchr/testify/assert"
-	"rseaon"
 	"testing"
 )
 
