@@ -1,4 +1,4 @@
-module rseaon
+module github.com/Misonoi/rseaon
 
 go 1.21
 
